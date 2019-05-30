@@ -1,4 +1,4 @@
-# go-scheduler
+# goscheduler
 
 Your preferred scheduling solution™
 
